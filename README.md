@@ -1,4 +1,4 @@
-![alt text](http://picsum.photos/400/300)
+![alt text](http://picsum.photos/400)
 
 ## NextJs
 ## Typescript
